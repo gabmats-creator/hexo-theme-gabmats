@@ -422,7 +422,7 @@ footer:
   content: '
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    <a href="https://github.com/gabmats-creator/hexo-theme-gabmats" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
   '
 
   # 展示网站的 PV、UV 统计数
@@ -1016,7 +1016,7 @@ links:
     - {
       title: "Fluid Repo",
       intro: "主题 GitHub 仓库",
-      link: "https://github.com/fluid-dev/hexo-theme-fluid",
+      link: "https://github.com/gabmats-creator/hexo-theme-gabmats",
       avatar: "/img/favicon.png"
     }
 

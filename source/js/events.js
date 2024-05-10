@@ -176,7 +176,7 @@ Fluid.events = {
 |     |_____|   [___]'.__.'_/[___]'.__.;__]     |
 |                                               |
 |            Powered by Hexo x Fluid            |
-| https://github.com/fluid-dev/hexo-theme-fluid |
+| https://github.com/gabmats-creator/hexo-theme-gabmats |
 |                                               |
 -------------------------------------------------
     `);
