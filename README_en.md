@@ -47,7 +47,7 @@ If you don't have a hexo blog, please follow [Hexo Docs](https://hexo.io/docs/) 
 If your Hexo version >= 5.0.0, you can install Fluid via Npm:
 
 ```sh
-npm install --save hexo-theme-fluid
+npm install --save hexo-theme-gabmats
 ```
 
 Then create `_config.fluid.yml` in the blog directory and copy the content of [_config.yml](https://github.com/fluid-dev/hexo-theme-fluid/blob/master/_config.yml).

@@ -48,7 +48,7 @@
 Hexo 5.0.0 版本以上，推荐通过 npm 直接安装，进入博客目录执行命令：
 
 ```sh
-npm install --save hexo-theme-fluid
+npm install --save hexo-theme-gabmats
 ```
 
 然后在博客目录下创建 `_config.fluid.yml`，将主题的 [_config.yml](https://github.com/fluid-dev/hexo-theme-fluid/blob/master/_config.yml) 内容复制进去。
