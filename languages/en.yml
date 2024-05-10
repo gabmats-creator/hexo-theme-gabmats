@@ -1,27 +1,27 @@
 name: 'English'
 
 home:
-  menu: 'Home'
+  menu: 'Início'
   title: 'Home'
 
 archive:
-  menu: 'Archives'
-  title: 'Archives'
-  subtitle: 'Archives'
-  post_total: '%d posts in total'
+  menu: 'Postagens'
+  title: 'Postagens'
+  subtitle: 'Postagens'
+  post_total: '%d postagens no total'
 
 category:
-  menu: 'Categories'
-  title: 'Categories'
-  subtitle: 'Categories'
-  post_total: '%d posts in total'
+  menu: 'Categorias'
+  title: 'Categorias'
+  subtitle: 'Categorias'
+  post_total: '%d postagens no total'
   more: 'More...'
 
 tag:
   menu: 'Tags'
   title: 'Tags'
   subtitle: 'Tags'
-  post_total: '%d posts in total'
+  post_total: '%d postagens no total'
 
 about:
   menu: 'About'
@@ -48,8 +48,8 @@ post:
     min2read: '%s mins'
     views: '{} views'
   copyright:
-    author: 'Author'
-    posted: 'Posted on'
+    author: 'Autor'
+    posted: 'Postado em'
     updated: 'Updated on'
     licensed: 'Licensed under'
     CC: 'CC - Creative Commons license'
